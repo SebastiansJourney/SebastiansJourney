@@ -50,7 +50,7 @@ multi-agent systems, RAG pipelines, and MCP integrations.
 
 ## 📍 Background
 
-Before the bootcamp I spent 5+ years at A.P. Moller – Maersk — first managing global 
+Before the bootcamp I spent 5+ years at A.P. Moller – Maersk — first owning global 
 key accounts and leading tender negotiations at enterprise level, then as a Financial 
 Analyst building Power BI dashboards and data narratives for senior leadership.
 
